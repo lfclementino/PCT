@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PCT">
+</Property><Property Name="Solution File" Value="C:\C_Sharp\PCT\PCT.sln">
+</Property><Property Name="User Options File" Value="C:\C_Sharp\PCT\PCT.suo">
+</Property><Property Name="Date" Value="segunda-feira, 30 de maio de 2011">
+</Property><Property Name="Time" Value="10:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PCT.sln" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PCT.suo" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT.suo">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\PCT.csproj" Description="Project file successfully backed up as C:\C_Sharp\PCT\Backup\PCT\PCT.csproj">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\clsCalculo.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\clsCalculo.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\clsFundo.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\clsFundo.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\clsHorizontal.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\clsHorizontal.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\clsVertical.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\clsVertical.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmAbout.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmAbout.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmAbout.designer.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmAbout.designer.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmFundo.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmFundo.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmFundo.Designer.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmFundo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmMain.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmMain.Designer.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmJanelaCalculo.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmJanelaCalculo.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmJanelaCalculo.Designer.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmJanelaCalculo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmTrecho.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmTrecho.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmTrecho.Designer.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmTrecho.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Program.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Program.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\resImagens.Designer.cs" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\resImagens.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Properties\Settings.settings" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\Save.png" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\Save.png">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\Exit.png" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\Exit.png">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\Folder.png" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\Folder.png">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\Info.png" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\Info.png">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\New document.png" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\New document.png">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\FundoPCT_1024.jpg" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\FundoPCT_1024.jpg">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\copy_icon.gif" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\copy_icon.gif">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\BR.gif" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\BR.gif">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\Icone.png" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\Icone.png">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\minipix-omit-page-red.gif" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\minipix-omit-page-red.gif">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\101.gif" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\101.gif">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Resources\SaveAs.png" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Resources\SaveAs.png">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\PCT.ico" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\PCT.ico">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmAbout.resx" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmAbout.resx">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmFundo.resx" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmFundo.resx">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmJanelaCalculo.resx" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmJanelaCalculo.resx">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmMain.resx" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\frmTrecho.resx" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\frmTrecho.resx">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\Properties\Resources.resx" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\resImagens.resx" Description="File successfully backed up as C:\C_Sharp\PCT\Backup\PCT\resImagens.resx">
+</Event><Event ErrorLevel="1" Project="PCT" Source="PCT\PCT.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\PCT.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PCT" Source="PCT\PCT.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PCT.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PCT.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PCT" Source="PCT\PCT.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

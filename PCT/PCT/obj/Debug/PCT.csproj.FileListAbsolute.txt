@@ -1,0 +1,12 @@
+D:\C_Sharp\PCT\PCT\obj\Debug\ResolveAssemblyReference.cache
+D:\C_Sharp\PCT\PCT\obj\Debug\PCT.frmJanelaCalculo.resources
+D:\C_Sharp\PCT\PCT\obj\Debug\PCT.frmMain.resources
+D:\C_Sharp\PCT\PCT\obj\Debug\PCT.frmTrecho.resources
+D:\C_Sharp\PCT\PCT\obj\Debug\PCT.Properties.Resources.resources
+D:\C_Sharp\PCT\PCT\obj\Debug\PCT.csproj.GenerateResource.Cache
+D:\C_Sharp\PCT\PCT\bin\Debug\PCT.exe
+D:\C_Sharp\PCT\PCT\bin\Debug\PCT.pdb
+D:\C_Sharp\PCT\PCT\obj\Debug\PCT.exe
+D:\C_Sharp\PCT\PCT\obj\Debug\PCT.pdb
+D:\C_Sharp\PCT\PCT\obj\Debug\PCT.resImagens.resources
+D:\C_Sharp\PCT\PCT\obj\Debug\PCT.frmFundo.resources
